@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:326CE5,100:FF9900&amp;height=220&amp;section=header&amp;text=Naga%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20DevOps%20%26%20MLOps%20Engineer%20%7C%20AI%20Agent%20Security&amp;descAlignY=55&amp;descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0078D4,50:326CE5,100:FF9900&amp;height=220&amp;section=header&amp;text=Naga%20Reddy&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20DevOps%20plus%20MLOps%20Engineer%20%7C%20AI%20Agent%20Security&amp;descAlignY=55&amp;descSize=20"/>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 **🛡️ AI Security / Red Teaming**
 ![Garak](https://img.shields.io/badge/Garak-LLM%20Vuln%20Scanning-red?style=flat-square)
 ![PyRIT](https://img.shields.io/badge/PyRIT-Red%20Team%20Framework-red?style=flat-square)
-![Promptfoo](https://img.shields.io/badge/Promptfoo-Eval%20%26%20Guardrails-red?style=flat-square)
+![Promptfoo](https://img.shields.io/badge/Promptfoo-Eval%20and%20Guardrails-red?style=flat-square)
 ![Policy Guardrails](https://img.shields.io/badge/Policy%20Guardrails-Tool%20Control-red?style=flat-square)
 
 ---
