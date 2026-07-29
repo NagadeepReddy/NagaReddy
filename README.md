@@ -212,28 +212,26 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 <tr>
 <td align="center" width="25%">
 
-**9**
-<sub>Public Repositories</sub>
+<img src="https://skillicons.dev/icons?i=github" height="36"/><br><br>
+<img src="https://img.shields.io/badge/9-Public%20Repositories-33E1B3?style=for-the-badge&amp;labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
 
-**5**
-<sub>Cloud Platforms & Tools</sub>
-<sub>(AWS · Azure · GCP)</sub>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" height="36"/><br><br>
+<img src="https://img.shields.io/badge/3-Cloud%20Platforms-33E1B3?style=for-the-badge&amp;labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
 
-**3**
-<sub>AI Security Frameworks</sub>
-<sub>(Garak · PyRIT · Promptfoo)</sub>
+<img src="https://skillicons.dev/icons?i=python" height="36"/><br><br>
+<img src="https://img.shields.io/badge/3-AI%20Security%20Frameworks-FF9F1C?style=for-the-badge&amp;labelColor=121820"/>
 
 </td>
 <td align="center" width="25%">
 
-**Full-Stack**
-<sub>IaC → K8s → CI/CD → MLOps → AI Agents</sub>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker" height="36"/><br><br>
+<img src="https://img.shields.io/badge/5%20Layer-Full%20Stack-33E1B3?style=for-the-badge&amp;labelColor=121820"/>
 
 </td>
 </tr>
