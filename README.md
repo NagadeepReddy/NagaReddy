@@ -206,12 +206,38 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 
 > ⚙️ This animates automatically via a GitHub Action — one-time setup below.
 
-### 📈 GitHub Stats
+### 📈 At a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NagadeepReddy&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NagadeepReddy&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+**9**
+<sub>Public Repositories</sub>
+
+</td>
+<td align="center" width="25%">
+
+**5**
+<sub>Cloud Platforms & Tools</sub>
+<sub>(AWS · Azure · GCP)</sub>
+
+</td>
+<td align="center" width="25%">
+
+**3**
+<sub>AI Security Frameworks</sub>
+<sub>(Garak · PyRIT · Promptfoo)</sub>
+
+</td>
+<td align="center" width="25%">
+
+**Full-Stack**
+<sub>IaC → K8s → CI/CD → MLOps → AI Agents</sub>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,hcl,bash,powershell,docker" height="40"/>
