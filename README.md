@@ -1,14 +1,12 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:326CE5,100:FF9900&height=220&section=header&text=Naga%20Reddy&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20DevOps%20%26%20MLOps%20Engineer%20%7C%20AI%20Agent%20Security&descAlignY=55&descSize=20"/>
+</p>
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Naga%20Reddy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20DevOps%20%26%20MLOps%20Engineer%20%7C%20AI%20Agent%20Security&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Multi-Cloud%3A+AWS+%2B+Azure+%2B+GCP+%E2%98%81%EF%B8%8F;Kubernetes+platforms+%2B+CI%2FCD+pipelines+that+ship+%F0%9F%9A%80;MLOps+model-serving+at+production+scale;Securing+AI+Agents+with+Garak+%2B+PyRIT+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=Multi-Cloud+%7C+AWS+%C2%B7+Azure+%C2%B7+GCP;Kubernetes+%2B+Terraform+%2B+CI%2FCD+Automation;MLOps+%7C+Model+Training+to+Production+Serving;AI+Agent+Security+%7C+Garak+%C2%B7+PyRIT+%C2%B7+Promptfoo" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
 I build and secure infrastructure that ships — from Kubernetes platforms and CI/CD pipelines to MLOps model-serving stacks and production-grade AI agent systems.
@@ -17,6 +15,10 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 <p align="center">
   <a href="https://www.linkedin.com/in/naga-reddy-2ba924a1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Cloud%20DevOps%20%7C%20SRE%20%7C%20MLOps%20roles-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=footer"/>
 </p>
 
 ---
@@ -56,10 +58,6 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 ![PyRIT](https://img.shields.io/badge/PyRIT-Red%20Team%20Framework-red?style=flat-square)
 ![Promptfoo](https://img.shields.io/badge/Promptfoo-Eval%20%26%20Guardrails-red?style=flat-square)
 ![Policy Guardrails](https://img.shields.io/badge/Policy%20Guardrails-Tool%20Control-red?style=flat-square)
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450">
-</div>
 
 ---
 
@@ -107,7 +105,15 @@ Dockerized Python web application.
 
 ---
 
-### 📈 GitHub Stats — Live & In Motion
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NagadeepReddy/NagadeepReddy/output/github-contribution-grid-snake.svg" alt="Snake animation eating contribution graph" width="100%"/>
+</p>
+
+> ⚙️ This animates automatically via a GitHub Action — one-time setup below.
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NagadeepReddy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -116,59 +122,7 @@ Dockerized Python web application.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagadeepReddy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=NagadeepReddy&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" height="165"/>
 </p>
-
----
-
-### 🐍 Contribution Snake — animated motion through real commit history
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/NagadeepReddy/NagadeepReddy/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-> ⚠️ This renders once you add the GitHub Action below to a repo named exactly `NagadeepReddy`. It regenerates daily, animated from your actual contribution graph.
-
-<details>
-<summary>📄 Click to expand: <code>.github/workflows/snake.yml</code></summary>
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch: {}
-  push:
-    branches: [ main ]
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: NagadeepReddy
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: actions/upload-artifact@v4
-        with:
-          name: github-contribution-grid-snake.svg
-          path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
@@ -180,7 +134,6 @@ jobs:
 
 <p align="center"><i>Open to Cloud DevOps, SRE, MLOps, and AI Infrastructure/Security roles.</i></p>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=NagadeepReddy&color=00c6ff&style=flat&label=Profile+Views" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=100&section=footer" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,50:326CE5,100:0078D4&height=120&section=footer"/>
+</p>
