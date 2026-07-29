@@ -71,58 +71,62 @@ I build and secure infrastructure that ships — from Kubernetes platforms and C
 <table align="center">
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/AI-Secure-Agent-Foundation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=AI-Secure-Agent-Foundation&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+### 🔐 AI Secure Agent Foundation
+<img src="https://skillicons.dev/icons?i=python,docker" height="32"/>
 
-**🔐 AI Secure Agent Foundation**
-Tool-access control and policy guardrails for AI agents, red-teamed before ship.
+**Tool-access control and policy guardrails for AI agents — red-teamed before ship.**
 
-<img src="https://skillicons.dev/icons?i=python,docker" height="28"/> &nbsp;
 `LiteLLM` `MCP` `Promptfoo` `Garak` `PyRIT`
 
+[**View Repository →**](https://github.com/NagadeepReddy/AI-Secure-Agent-Foundation)
+
+</div>
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/Telco-churn-AI-MLOps-LLM-MCP-RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=Telco-churn-AI-MLOps-LLM-MCP-RAG&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+### 📊 Telco Churn MLOps Pipeline
+<img src="https://skillicons.dev/icons?i=python,kubernetes,aws,docker" height="32"/>
 
-**📊 Telco Churn MLOps Pipeline**
-train.py → registry → Seldon serving → AWS EKS. Full ML lifecycle, not a notebook.
+**train.py → registry → Seldon serving → AWS EKS. Full ML lifecycle, not a notebook.**
 
-<img src="https://skillicons.dev/icons?i=python,kubernetes,aws,docker" height="28"/> &nbsp;
 `Seldon Core` `GitHub Actions`
 
+[**View Repository →**](https://github.com/NagadeepReddy/Telco-churn-AI-MLOps-LLM-MCP-RAG)
+
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/infrastore-k8s-deployment">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=infrastore-k8s-deployment&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+### ☸️ InfraStore K8s Deployment
+<img src="https://skillicons.dev/icons?i=kubernetes" height="32"/>
 
-**☸️ InfraStore K8s Deployment**
-HPA autoscaling, non-root containers, NetworkPolicy, TLS-ready ingress — security by design.
+**HPA autoscaling, non-root containers, NetworkPolicy, TLS-ready ingress — security by design.**
 
-<img src="https://skillicons.dev/icons?i=kubernetes" height="28"/> &nbsp;
 `Helm` `NetworkPolicy` `cert-manager` `GitOps`
 
+[**View Repository →**](https://github.com/NagadeepReddy/infrastore-k8s-deployment)
+
+</div>
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/kubernetes-Terraform-AWS-AKS-">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=kubernetes-Terraform-AWS-AKS-&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+### 🏗️ Multi-Cloud K8s with Terraform
+<img src="https://skillicons.dev/icons?i=terraform,aws,azure" height="32"/>
 
-**🏗️ Multi-Cloud K8s with Terraform**
-Infrastructure-as-Code provisioning Kubernetes clusters across AWS and Azure AKS.
+**Infrastructure-as-Code provisioning Kubernetes clusters across AWS and Azure AKS.**
 
-<img src="https://skillicons.dev/icons?i=terraform,aws,azure" height="28"/> &nbsp;
 `IaC`
 
+[**View Repository →**](https://github.com/NagadeepReddy/kubernetes-Terraform-AWS-AKS-)
+
+</div>
 </td>
 </tr>
 </table>
@@ -138,57 +142,55 @@ Infrastructure-as-Code provisioning Kubernetes clusters across AWS and Azure AKS
 <table align="center">
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/Project-nodejs-cicd-jenkins-aws">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=Project-nodejs-cicd-jenkins-aws&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+**⚡ Node.js CI/CD on Jenkins + AWS**
+<img src="https://skillicons.dev/icons?i=jenkins,docker,aws" height="26"/>
+[View →](https://github.com/NagadeepReddy/Project-nodejs-cicd-jenkins-aws)
 
-<img src="https://skillicons.dev/icons?i=jenkins,docker,aws" height="24"/>
-
+</div>
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/k8s-windows-enterprise-lab">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=k8s-windows-enterprise-lab&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+**🖥️ Hybrid Windows K8s Lab**
+<img src="https://skillicons.dev/icons?i=kubernetes,powershell" height="26"/> `Longhorn`
+[View →](https://github.com/NagadeepReddy/k8s-windows-enterprise-lab)
 
-<img src="https://skillicons.dev/icons?i=kubernetes,powershell" height="24"/> `Longhorn`
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/Health_dag_api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=Health_dag_api&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+**🩺 Health DAG API**
+<img src="https://skillicons.dev/icons?i=python,fastapi" height="26"/>
+[View →](https://github.com/NagadeepReddy/Health_dag_api)
 
-<img src="https://skillicons.dev/icons?i=python,fastapi" height="24"/>
-
+</div>
 </td>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/kubernetes">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=kubernetes&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+**📦 Kubernetes Fundamentals**
+<img src="https://skillicons.dev/icons?i=kubernetes" height="26"/>
+[View →](https://github.com/NagadeepReddy/kubernetes)
 
-<img src="https://skillicons.dev/icons?i=kubernetes" height="24"/>
-
+</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<div align="center">
 
-<a href="https://github.com/NagadeepReddy/Python-Web-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NagadeepReddy&amp;repo=Python-Web-App&amp;theme=tokyonight&amp;hide_border=true" width="100%"/>
-</a>
+**🌐 Python Web App**
+<img src="https://skillicons.dev/icons?i=python,docker" height="26"/>
+[View →](https://github.com/NagadeepReddy/Python-Web-App)
 
-<img src="https://skillicons.dev/icons?i=python,docker" height="24"/>
-
+</div>
 </td>
-<td width="50%" valign="top">
-
-</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -212,7 +214,10 @@ Infrastructure-as-Code provisioning Kubernetes clusters across AWS and Azure AKS
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NagadeepReddy&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,hcl,bash,powershell,docker" height="40"/>
+</p>
+<p align="center">
+  <sub>Python · HCL (Terraform) · Shell · PowerShell · Docker — across 9 public repositories</sub>
 </p>
 
 ---
