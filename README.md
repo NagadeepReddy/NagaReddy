@@ -79,6 +79,19 @@ End-to-end CI/CD pipeline: GitHub webhook triggers Jenkins, which builds a Docke
 Reference implementations and hands-on notes covering core Kubernetes concepts and manifests.
 `Kubernetes` · `YAML manifests`
 
+#### 🖥️ [k8s-windows-enterprise-lab](https://github.com/NagadeepReddy/k8s-windows-enterprise-lab)
+Hybrid Kubernetes lab with Windows worker nodes, Longhorn persistent storage, Helm, and PowerShell automation.
+`Kubernetes` · `Windows Containers` · `Longhorn` · `Helm` · `PowerShell`
+> Focus: mixed-OS clusters — a scenario most K8s portfolios skip entirely.
+
+#### 🩺 [Health_dag_api](https://github.com/NagadeepReddy/Health_dag_api)
+System DAG Health API built with FastAPI for monitoring pipeline/workflow health status.
+`Python` · `FastAPI`
+
+#### 🌐 [Python-Web-App](https://github.com/NagadeepReddy/Python-Web-App)
+Dockerized Python web application.
+`Python` · `Docker`
+
 ---
 
 ### 📈 GitHub Stats
